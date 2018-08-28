@@ -1,0 +1,15 @@
+{
+  "api_url": "https://api.trello.com/1/",
+  "api_key": "?",
+  "api_token": "?",
+  "cards": [
+    {
+      "name": "Family Council (|#date#|)",
+      "event_weekday": "sunday",
+      "add_day": "monday",
+      "desc": "Meine Beschreibung",
+      "idList": "Gqzs9nRh",
+      "pos": "top"
+    }
+  ]
+}
